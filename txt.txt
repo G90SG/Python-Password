@@ -1,0 +1,10 @@
+
+
+
+
+#Creating Yes, No and special List
+yesList = ["Yes", "Y", "y", "Yeah", "yes"]
+noList = ["No", "N", "n", "Nah", "no"]
+specialList = ["@","_","!","$","%","^","&","*"] 
+numList = range(1,100)
+letList = ("a,z")
